@@ -5,7 +5,7 @@
 - 📫 you can touch me by email ```hankins.home@outlook.com``` & weixin ```poker-JQKA```
 
 
-#### 🚀 Activity
+### 🚀 Activity
 ---
 <p align="center">
   <a href="https://blog.liushen.fun">
@@ -13,7 +13,7 @@
   </a>
 </p>
 
-#### 🗂 Panel
+### 🗂 Panel
 ---
 <div align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hviwen&theme=tokyonight&hide=batchfile" alt="langruse">
