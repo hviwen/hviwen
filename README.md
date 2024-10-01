@@ -2,7 +2,7 @@
   <h1 height="200px" align="center">
     <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"> I'm @huiwen
   </h1>
-   <p align="center">A frontend developer from China 👨‍💻</p>
+   <p align="left">A frontend developer from China 👨‍💻</p>
 </p>
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
@@ -23,19 +23,19 @@
 </div>
 
 <!-- 关于我 -->
-<h2 height="200px" align="center">🎉 About Me</h2>
+<h2 height="200px" align="left">🎉 About Me</h2>
 
 - 👋 Hi, I’m @huiwen
 - 🌱 I’m currently learning ```llm``` ```fullstack```
 - 💞️ I’m looking to collaborate on ```web``` anything
 - 📫 you can touch me by email ```hankins.home@outlook.com``` & weixin ```poker-JQKA```
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hviwen&show_icons=true&hide=issues&count_private=true&card_width=450" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hviwen&layout=compact&hide=java&card_width=450" />
-  </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hviwen&show_icons=true&hide=issues&count_private=true&card_width=450" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hviwen&layout=compact&hide=java&card_width=450" />
+</a>
 
 <!---
 huiwen/huiwen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
