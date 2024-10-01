@@ -2,7 +2,7 @@
   <h1 height="200px" align="center">
     <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"> I'm @huiwen
   </h1>
-   <p align="left">A frontend developer from China 👨‍💻</p>
+   <p align="center">A frontend developer from China 👨‍💻</p>
 </p>
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
