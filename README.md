@@ -30,12 +30,14 @@
 - 💞️ I’m looking to collaborate on ```web``` anything
 - 📫 you can touch me by email ```hankins.home@outlook.com``` & weixin ```poker-JQKA```
 
+<!---
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hviwen&show_icons=true&hide=issues&count_private=true&card_width=450" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hviwen&layout=compact&hide=java&card_width=450" />
 </a>
+--->
 
 <!---
 huiwen/huiwen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
