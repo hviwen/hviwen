@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">
   <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=ffcf26">
   <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
+  <img src="https://img.shields.io/badge/%20WebStorm%20-blue?logo=webstorm&style=flat-square">
+  <img src="https://img.shields.io/badge/%20Warp%20-gainsboro?logo=warp&style=flat-square">
 </div>
 
 <!-- 关于我 -->
@@ -38,6 +40,7 @@
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hviwen&layout=compact&hide=java&card_width=450" />
 </a>
 --->
+[![songlcy](https://github-readme-stats-six-mocha.vercel.app/api?username=hviwen&count_private=true&title_color=e69138&text_color=666666&icon_color=f6b26b)](https://github.com/hviwen)
 
 <!---
 huiwen/huiwen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
