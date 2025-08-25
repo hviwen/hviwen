@@ -1,8 +1,11 @@
 name: Generate Snake Animation
 
 on:
+  # 每18小时自动运行一次 (每天的 00:00 和 18:00 UTC)
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 0,18 * * *"
+  
+  # 允许手动触发
   workflow_dispatch:
 
 jobs:
@@ -39,4 +42,4 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+          branch: main
