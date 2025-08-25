@@ -1,11 +1,8 @@
 name: Generate Snake Animation
 
 on:
-  # 每12小时自动运行一次
   schedule:
-    - cron: "0 */12 * * *"
-  
-  # 允许手动触发
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
@@ -14,7 +11,11 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      # 生成贪吃蛇动画，基于您的 GitHub 贡献图
+      # 检出代码
+      - name: Checkout
+        uses: actions/checkout@v3
+        
+      # 生成贪吃蛇动画
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -25,12 +26,17 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
-      # 推送生成的文件到仓库
-      - name: Push snake svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      # 提交生成的文件
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add assets/
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update snake animations"
+          
+      # 推送更改
+      - name: Push changes
+        uses: ad-m/github-push-action@master
         with:
-          target_branch: master
-          build_dir: assets
-          keep_history: false
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
