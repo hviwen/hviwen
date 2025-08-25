@@ -40,6 +40,13 @@
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hviwen&layout=compact&hide=java&card_width=450" />
 </a>
 --->
+<!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
+</picture>
+
 [![songlcy](https://github-readme-stats-six-mocha.vercel.app/api?username=hviwen&count_private=true&title_color=e69138&text_color=666666&icon_color=f6b26b)](https://github.com/hviwen)
 
 <!---
