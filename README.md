@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=ffcf26">
   <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
   <img src="https://img.shields.io/badge/%20WebStorm%20-blue?logo=webstorm&style=flat-square">
-  <img src="https://img.shields.io/badge/%20Warp%20-gainsboro?logo=warp&style=flat-square">
+  <img src="https://img.shields.io/badge/%20VSCode%20-gainsboro?logo=vscode&style=flat-square">
 </div>
 
 <!-- 关于我 -->
